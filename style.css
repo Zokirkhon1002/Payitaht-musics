@@ -12,7 +12,9 @@ body {
     height: 100vh;
     overflow: hidden;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: rgba(204, 162, 45, 0.849)
+    background: url("https://1.bp.blogspot.com/-8qU7vGUMNH0/YAx3TRLv8UI/AAAAAAAAC5E/7_gIKEvO9aYyhUDJeWW1W4YXjYm1N7Y8QCLcBGAsYHQ/s1600/bfc14332-7d71-4bfa-9e00-e45e32692d87.jpg");
+    background-position: center;
+    background-size: cover;
 }
 .btn {
     background-color:rgba(126, 105, 50, 0.849);
